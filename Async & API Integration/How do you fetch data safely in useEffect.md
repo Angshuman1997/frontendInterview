@@ -1,0 +1,1 @@
+# How do you fetch data safely in useEffect
