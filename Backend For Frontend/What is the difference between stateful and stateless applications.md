@@ -1,0 +1,1 @@
+# What is the difference between stateful and stateless applications

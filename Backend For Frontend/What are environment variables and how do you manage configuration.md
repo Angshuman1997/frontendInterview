@@ -1,0 +1,1 @@
+# What are environment variables and how do you manage configuration
