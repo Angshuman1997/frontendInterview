@@ -1,0 +1,1 @@
+# How do you implement circuit breaker pattern for fault tolerance
