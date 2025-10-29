@@ -1,1 +1,0 @@
-# How do you implement session management and cookies

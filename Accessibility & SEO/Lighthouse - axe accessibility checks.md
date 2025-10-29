@@ -1,1 +1,0 @@
-# Lighthouse - axe accessibility checks

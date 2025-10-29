@@ -1,1 +1,0 @@
-# SSR & SEO basics (Next.js awareness)

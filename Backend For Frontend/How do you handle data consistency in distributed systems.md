@@ -1,1 +1,0 @@
-# How do you handle data consistency in distributed systems

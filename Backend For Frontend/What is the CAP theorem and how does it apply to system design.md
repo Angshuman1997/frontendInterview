@@ -1,1 +1,0 @@
-# What is the CAP theorem and how does it apply to system design

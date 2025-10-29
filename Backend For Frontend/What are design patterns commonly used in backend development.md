@@ -1,1 +1,0 @@
-# What are design patterns commonly used in backend development

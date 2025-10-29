@@ -1,1 +1,0 @@
-# What are microservices and how do they differ from monolithic architecture

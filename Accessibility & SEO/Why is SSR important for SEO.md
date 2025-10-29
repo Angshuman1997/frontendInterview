@@ -1,1 +1,0 @@
-# Why is SSR important for SEO

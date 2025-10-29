@@ -1,1 +1,0 @@
-# How do you implement authentication and authorization in a web application

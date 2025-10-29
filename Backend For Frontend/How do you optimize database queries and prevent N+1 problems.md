@@ -1,1 +1,0 @@
-# How do you optimize database queries and prevent N+1 problems

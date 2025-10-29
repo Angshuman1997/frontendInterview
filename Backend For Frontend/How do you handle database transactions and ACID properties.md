@@ -1,1 +1,0 @@
-# How do you handle database transactions and ACID properties

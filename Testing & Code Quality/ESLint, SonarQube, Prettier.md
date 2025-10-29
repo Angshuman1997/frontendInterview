@@ -1,1 +1,0 @@
-# ESLint, SonarQube, Prettier
