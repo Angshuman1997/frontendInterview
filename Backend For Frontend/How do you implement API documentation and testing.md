@@ -1,1 +1,0 @@
-# How do you implement API documentation and testing

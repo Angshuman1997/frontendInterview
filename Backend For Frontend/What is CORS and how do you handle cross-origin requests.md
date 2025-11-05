@@ -1,1 +1,0 @@
-# What is CORS and how do you handle cross-origin requests

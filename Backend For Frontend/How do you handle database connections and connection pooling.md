@@ -1,1 +1,0 @@
-# How do you handle database connections and connection pooling
